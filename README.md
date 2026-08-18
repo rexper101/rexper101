@@ -1,6 +1,2 @@
 Hi, I'm Aniket
 
-Aspiring AI & ML Engineer | Building AI-powered projects and intelligent solutions | AI 
-• Machine Learning • Deep Learning • Data Science • Generative AI • LLMs • NLP • Computer Vision • MLOps
-
-

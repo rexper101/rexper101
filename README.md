@@ -3,7 +3,6 @@ Hi, I'm Aniket
 Aspiring AI & ML Engineer | Building AI-powered projects and intelligent solutions | AI 
 • Machine Learning • Deep Learning • Data Science • Generative AI • LLMs • NLP • Computer Vision • MLOps
 
-logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aniket-gauliwar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aniketgauliwar395@gmail.com) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=rexper101&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>

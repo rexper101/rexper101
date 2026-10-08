@@ -14,7 +14,3 @@ Aspiring AI & ML Engineer | Building AI-powered projects and intelligent solutio
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rexper101&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
